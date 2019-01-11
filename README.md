@@ -1,2 +1,5 @@
-# NeuralNetworkWithNumPy
-The project aims at teaching. So I will implement a neural network with NumPy. All the formulas about that will be added as markdown files.
+# 项目说明
+本项目目的在于使用结构明晰的Python+NumPy来实现神经网络结构，用于学习目的。因此这个过程中并需要在意性能。项目中附有MarkDown格式文本，用于对原理进行说明。
+
+
+
